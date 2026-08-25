@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Kiddo SDUI",
+    "slug": "kiddo-sdui",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}

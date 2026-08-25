@@ -1,0 +1,19 @@
+# Dependencies and generated build output
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Native and local environment files
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p8
+*.p12
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
